@@ -14,9 +14,11 @@
 
 * item 1
 * item 2
-- item asd
-- asdasd
-1. item 3
-2. item 4  
+- item 1
+- item 2
++ item 1
++ item 2
+1. item 1
+2. item 2  
 [Texto del enlace](url)  
 ![Texto alternativo de imagen](url)
