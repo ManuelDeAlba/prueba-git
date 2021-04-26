@@ -21,6 +21,8 @@ function saludo(){
 }
 `
 
+    esto es codigo
+
 ```
 function saludo(){
   console.log("hola mundo")
@@ -46,6 +48,7 @@ ___
 
 [Texto del enlace](url "title enlace")
 
+*para que el link también sea el texto*
 <https://google.com>
 
 ![Texto alternativo de imagen](url)
