@@ -5,7 +5,7 @@
 ##### hola
 ###### hola
 *cursiva*
-*negrita*
+**negrita**
 >Cita
 `function saludo(){
   console.log("hola mundo")
