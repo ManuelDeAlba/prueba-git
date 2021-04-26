@@ -12,6 +12,7 @@
 **negrita**  
 "Con dos espacios se hace un salto de linea"
 >Cita
+Si no dejamos espacio, esto también se incluye en la cita
 
 `function saludo(){
   console.log("hola mundo")
