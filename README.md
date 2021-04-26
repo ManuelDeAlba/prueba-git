@@ -52,11 +52,18 @@ ___
 [Texto enlace](url "title al hacer hover")
 
 Para hacer que el link también sea el texto
+
 <https://google.com>
 
-remarcar una `palabra` en un texto
+## Imagenes
 
-    Código
+![Titulo de imagen](https://picsum.photos/200 "titulo hover")
+
+## Código
+
+    Código dando 4 espacios
+
+remarcar una `palabra` en un texto usando \`palabra\`
 
 ```
 function hola(){
@@ -69,3 +76,7 @@ function hola(){
         console.log("hola mundo")
     }
 ~~~
+
+## Anular el markdown
+
+Agregando una barra \\\*invertida\\\*
