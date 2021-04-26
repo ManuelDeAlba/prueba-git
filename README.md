@@ -21,13 +21,21 @@ function saludo(){
 }
 `
 
-    esto es codigo
+    esto es codigo (poniendo 4 espacios)
+    
+remarcar un `texto` :D
 
 ```
 function saludo(){
   console.log("hola mundo")
 }
 ```
+
+~~~
+function saludo(){
+  console.log("hola mundo")
+}
+~~~
 
 * item 1
 * item 2
