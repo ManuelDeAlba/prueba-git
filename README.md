@@ -21,9 +21,9 @@ function saludo(){
 }
 `
 
-    esto es codigo (poniendo 4 espacios)
-    
 remarcar un `texto` :D
+
+    esto es codigo (poniendo 4 espacios)
 
 ```
 function saludo(){
@@ -60,3 +60,5 @@ ___
 <https://google.com>
 
 ![Texto alternativo de imagen](url)
+
+Anular \*markdown\*
