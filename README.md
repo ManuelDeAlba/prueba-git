@@ -39,9 +39,20 @@ Con 3 lineas
 
 ___
 
+## Cursiva y negritas
+
 *cursiva*
 
 **negrita**
+
+***cursiva y negrita***
+
+## Enlaces
+
+[Texto enlace](url "title al hacer hover")
+
+Para hacer que el link también sea el texto
+<https://google.com>
 
 remarcar una `palabra` en un texto
 
