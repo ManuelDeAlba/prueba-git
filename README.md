@@ -11,7 +11,7 @@
 *cursiva*  
 **negrita**  
 "Con dos espacios se hace un salto de linea"
->Cita
+>Cita  
 Si no dejamos espacio, esto también se incluye en la cita
 
 `function saludo(){
