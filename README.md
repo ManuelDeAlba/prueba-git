@@ -10,7 +10,7 @@
 
 ## Citas
 > Cita  
-> Salto de linea, poniendo otro signo
+Salto de linea, poniendo otro signo
 
 *cursiva*
 
