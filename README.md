@@ -4,8 +4,8 @@
 #### hola
 ##### hola
 ###### hola
-*cursiva*
-**negrita**
+*cursiva*  
+**negrita**  
 "Con dos espacios "  " se hace un salto de linea"
 >Cita  
 `function saludo(){
