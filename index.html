@@ -4,26 +4,82 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Prueba</title>
+	<style>
+		*{
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+		}
+		body{
+			font-family: sans-serif;
+		}
+		h1{
+			text-align: center;
+			margin: 20px 0;
+		}
+		.contenedor{
+			width: 90%;
+			max-width: 1000px;
+			margin: auto;
+		}
+		h2{
+			margin: 10px 0;
+		}
+	</style>
 </head>
 <body>
-	<p>git init</p>
-	<p>git status</p>
-	<p>git add "nombre"</p>
-	<p>git add .</p>
-	<p>git commit</p>
-	<p>tecla i para insertar, tecla esc y luego :wq (write quit)</p>
-	<p>git commit -m "mensaje"</p>
-	<p>git config --global user.email "email@gmail.com"</p>
-	<p>git config --global user.name "nombre"</p>
-	<p>Omit  --global to set the identity only in this repository</p>
-	<p>git log</p>
-	<p>git diff index.html</p>
-	<p>git branch</p>
-	<p>git branch "nombre de nueva rama"</p>
-	<p>git checkout</p>
+	<h1>Git</h1>
+	<div class="contenedor">
+		<h2>- git init</h2>
+		<p>Iniciar un proyecto con git (agrega carpeta .git)</p> <br>
 
-	<br>
-	<p>git remote add origin "link repositorio"</p>
-	<p>git push -u origin master</p>
+		<h2>- git status</h2>
+		<p>Para ver los archivos que hace falta añadir</p> <br>
+
+		<h2>- git add "nombre"</h2>
+		<p>Añadir los archivos (de uno por uno)</p> <br>
+
+		<h2>- git add .</h2>
+		<p>Añadir todos los archivos</p> <br>
+
+		<h2>- git commit</h2>
+		<p>Subi los archivos</p> <br>
+
+		<h2>tecla i para insertar, tecla esc y luego :wq (write quit)</h2>
+		<p>Ponerle el nombre al commit</p> <br>
+
+		<h2>- git commit -m "mensaje"</h2>
+		<p>Poner el nombre o mensaje sin entrar al editor</p> <br>
+
+		<h2>- git config --global user.email "email@gmail.com"</h2>
+		<p>Configurar el email</p> <br>
+
+		<h2>- git config --global user.name "nombre"</h2>
+		<p>Configurar el nombre, si se omite --global, la configuración se pone solo para el repositorio</p> <br>
+
+		<h2>- git log</h2>
+		<p>Historial de commits</p> <br>
+
+		<h2>- git diff index.html</h2>
+		<p>Diferencia entre archivos</p> <br>
+
+		<h2>- git branch</h2>
+		<p>Ver las ramas</p> <br>
+
+		<h2>- git branch "nombre"</h2>
+		<p>Crear nueva rama</p> <br>
+
+		<h2>- git checkout -- "nombre del archivo"</h2>
+		<p>Deshace los cambios de un archivo</p> <br>
+
+		<h2>- git checkout "nombre"</h2>
+		<p>Entrar a una rama</p> <br><br>
+
+		<h2>- git remote add origin "link repositorio"</h2>
+		<p>Link del repositorio</p> <br>
+
+		<h2>- git push -u origin master</h2>
+		<p>Subir archivos al repositorio</p> <br>
+	</div>
 </body>
 </html>
