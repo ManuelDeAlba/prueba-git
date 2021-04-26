@@ -15,13 +15,17 @@
 >Cita  
 Si no dejamos espacio, esto también se incluye en la cita
 
-`function saludo(){
+`
+function saludo(){
   console.log("hola mundo")
-}`
+}
+`
 
-```function saludo(){
+```
+function saludo(){
   console.log("hola mundo")
-}```
+}
+```
 
 * item 1
 * item 2
