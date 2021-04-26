@@ -7,3 +7,6 @@
 *cursiva*
 *negrita*
 >Cita
+`function saludo(){
+  console.log("hola mundo")
+}`
