@@ -10,7 +10,34 @@
 
 ## Citas
 > Cita  
-Salto de linea, poniendo otro signo
+Salto de linea, poniendo dos espacios
+
+## Listas
+### Desordenadas
+* Item 1
+* Item 2
+- Item 1
+- Item 2
++ Item 1
++ Item 2
+
+### Ordenadas
+1. Item 1
+2. Item 2
+3. Item 3
+
+### Mezcladas
+1. Item 1
+    * Item 1.1
+    * Item 1.2
+2. Item 2
+    + Item 2.1
+    + Item 2.2
+
+## Separaciones
+Con 3 lineas
+
+___
 
 *cursiva*
 
