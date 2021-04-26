@@ -5,3 +5,7 @@
 ##### hola
 ###### hola
 *cursiva*
+*negrita*
+"salto 
+de
+linea"
