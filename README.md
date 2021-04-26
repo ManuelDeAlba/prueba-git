@@ -27,10 +27,14 @@ Si no dejamos espacio, esto también se incluye en la cita
 1. item 1
 2. item 2
 
+# separacion
+___
+
 1. item 1
    * item 1.1
 2. item 2
     * item 2.1
 
 [Texto del enlace](url)
+
 ![Texto alternativo de imagen](url)
