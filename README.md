@@ -28,9 +28,9 @@ Si no dejamos espacio, esto también se incluye en la cita
 2. item 2
 
 1. item 1
-  * item 1.1
+   * item 1.1
 2. item 2
-  * item 2.1
+    * item 2.1
 
-[Texto del enlace](url)  
+[Texto del enlace](url)
 ![Texto alternativo de imagen](url)
