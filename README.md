@@ -14,7 +14,8 @@
 
 * item 1
 * item 2
+- item asd
 1. item 3
 2. item 4  
-[Texto del enlace](url)
+[Texto del enlace](url)  
 ![Texto alternativo de imagen](url)
