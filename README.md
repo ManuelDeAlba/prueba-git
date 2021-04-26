@@ -6,6 +6,4 @@
 ###### hola
 *cursiva*
 *negrita*
-"salto 
-de
-linea"
+"salto  de  linea :D"
