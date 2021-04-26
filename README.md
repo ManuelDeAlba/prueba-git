@@ -19,6 +19,10 @@ Si no dejamos espacio, esto también se incluye en la cita
   console.log("hola mundo")
 }`
 
+```function saludo(){
+  console.log("hola mundo")
+}```
+
 * item 1
 * item 2
 - item 1
@@ -39,5 +43,3 @@ ___
 [Texto del enlace](url)
 
 ![Texto alternativo de imagen](url)
-
-```hola```
