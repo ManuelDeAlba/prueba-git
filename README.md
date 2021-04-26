@@ -10,6 +10,7 @@
 
 *cursiva*  
 **negrita**  
+***negrita y cursiva***
 "Con dos espacios se hace un salto de linea"
 >Cita  
 Si no dejamos espacio, esto también se incluye en la cita
@@ -38,3 +39,5 @@ ___
 [Texto del enlace](url)
 
 ![Texto alternativo de imagen](url)
+
+```hola```
