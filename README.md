@@ -46,4 +46,6 @@ ___
 
 [Texto del enlace](url "title enlace")
 
+<para que un link sea el mismo texto>
+
 ![Texto alternativo de imagen](url)
